@@ -1,0 +1,12 @@
+.brick{
+  width: 100px;
+  height: 100px;
+  border-radius:5px;
+  margin: 5px;
+  cursor: pointer;
+  transition: all 1s;
+}
+.brick:hover{
+  transform: scale(1.2);
+  transition: all 1s;
+}

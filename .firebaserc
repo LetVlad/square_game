@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "squares-game-c37f9": {
+      "hosting": {
+        "square-game": [
+          "squares-game-c37f9"
+        ]
+      }
+    }
+  }
+}
